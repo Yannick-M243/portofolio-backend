@@ -21,7 +21,7 @@ app.use(function (req, res, next) {
 //linking the /api parameter to its route file
 app.use('/api', api);
 app.get('/', function (req, res) {
-    res.send('Server is running');
+    res.send('Server is running on port ' + port);
 })
 
 app.listen(port, () => console.log('Server is running on port ' + port))
