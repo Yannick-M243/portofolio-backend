@@ -1,0 +1,8 @@
+
+[submodule "portofolio-frontend"]
+	path = portofolio-frontend
+	url = https://github.com/Yannick-M243/portofolio-frontend.git
+
+[submodule "portofolio-backend"]
+	path = portofolio-backend
+	url = https://github.com/Yannick-M243/portofolio-backend.git
