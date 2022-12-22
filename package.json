@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yannick-M243/git-search-app.git"
+    "url": "git+https://github.com/Yannick-M243/portofolio-backend.git"
   },
   "author": "Yannick Makwenge",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yannick-M243/git-search-app/issues"
+    "url": "https://github.com/Yannick-M243/portofolio-backend/issues"
   },
-  "homepage": "https://github.com/Yannick-M243/git-search-app#readme",
+  "homepage": "https://github.com/Yannick-M243/portofolio-backend#readme",
   "dependencies": {
     "body-parser": "1.20.1",
     "cors": "2.8.5",
